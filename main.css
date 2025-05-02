@@ -1,0 +1,86 @@
+.t1{
+    height: 400px;
+    background-color: darkgrey;
+    color: white;
+    background-image: url(https://images8.alphacoders.com/133/1336966.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.myNavbar{
+    background-color: lightgray !important;
+}
+.t2 span{
+    font-size: 40px;
+    color: rgb(255, 54, 255) ;
+}
+
+.t2{
+    color: black;
+}
+
+.navbar-brand img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.header-logo{
+    position: absolute;
+    left: 77%;
+    width: 130px;
+    border-radius: 50%;
+    top: 10%;
+}
+.t3{
+    position:absolute;
+    top: 310px;
+    left: 300px;
+    font-size: 70px;
+}
+.t4{
+    background-color: lightgrey;
+}
+
+
+.myCarousel img{
+    height: 550px !important;
+}
+.d3{
+    font-size: 12px;
+
+}
+.t5{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+.t6{
+    font-size: 22px;
+    text-align: center;
+    color: darkgrey;
+}
+.t7{
+    color: blueviolet;
+    background-color: lightgray;
+}
+.t8{
+    color: blueviolet;
+    background-color:lightgray; 
+}
+
+.t11, .t10, .t9{
+    background-color: lightgray;
+}
+.t12{
+    width: 30px;
+}
+.t13{
+    background-color: blueviolet;
+    color: white;
+    width: 100%;
+}
+.t100{
+    height: 410px;
+    background-color: lightgray;
+}
